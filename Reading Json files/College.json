@@ -1,0 +1,4 @@
+{
+    "Courses": ["CSE", "IT", "ECE", "EEE", "MECH", "CIVIL"],
+    "Seats allotted": [60, 120, 240, 120, 180, 120]
+}
